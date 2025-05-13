@@ -1,0 +1,40 @@
+UX Journal Entry 2– Experience of using the WREC app
+Name: Sumo Okada
+Date: March 14, 2025
+
+1. Overview of the experience
+I had a class in the afternoon, and after that I wanted to take a little rest and do some light exercise to refresh myself. So, I used the WREC app to first reserve a pod for a nap, and then check the group exercise schedule. By using multiple functions, the ease of use of the app and areas that need improvement became clearer, so this time I will record the whole experience.
+
+
+2. Interaction story
+Morning – Making plans
+While I was organizing my schedule for the day in the morning, I decided that I wanted to take a nap after my afternoon class. So, I accessed the WELL page from the app and used the nap pod reservation function. However, it took a little time to open the page, and I had the impression that I had to wait a little. Still, I was able to find an available time slot and complete the reservation.
+
+After class – Checking exercise schedule
+After class and on my way to WREC, I opened the app again to check the list of group exercises for the day. The user interface was easy to read, and I was able to quickly understand the time, location, and content. I was interested in yoga classes, so I added them to my "favorites." I found this personalization feature useful for quickly finding classes I frequently use.
+
+After arrival – Reception experience
+When I arrived at WREC and checked in at the reception, I was required to present my membership ID. However, when I opened the app, my ID was not immediately displayed, and I was asked to log in again. I had to manually enter my username and password, which was quite inconvenient in front of the crowded reception desk.
+
+3. UX evaluation
+Good points
+Simple and clear design: The home screen of the WREC app has an organized color scheme and layout, and you can see where everything is at a glance. I felt that this reduced the burden on users when searching for information (=cognitive load).
+
+Good information architecture: The group exercise page, in particular, clearly states the date, time, content, and location, and the information you need can be accessed immediately without being overloaded with multiple pieces of information.
+
+Personalized display: When you register your favorite classes, they are displayed in a dedicated section, which I think is an element that enhances usability This is very convenient for daily users as they do not have to search for them multiple times.
+
+Areas that need improvement
+Required login procedure every time: When you close and reopen the app, you are often logged out, and it is very cumbersome to have to log in every time to view your membership ID. This significantly reduces task efficiency.
+
+Intermittent user flow: Every time you access the WELL page, a separate browser page is opened and you have to log in again, which is not a consistent experience. This intermittent experience can be frustrating for users.
+
+4. Suggested improvements
+Simplify the login process: Adding a "stay logged in" checkbox to the app or using biometric authentication can reduce the burden on users and provide a smoother experience.
+
+Introducing single sign-on (SSO): By linking the WREC app and WELL page accounts and allowing access to both with a single login, it is possible to prevent a break in the user flow and maintain consistency of operation.
+
+Improved visibility of member ID: By always displaying the member ID and QR code on the dashboard screen after logging in, the reception procedure will be quicker and user satisfaction will increase.
+
+5. Summary
+Through this experience, the WREC app has many features that are highly visible and have excellent information design. On the other hand, the complicated login operations and the inconvenience of linking with external pages can be major issues for users who use it on a daily basis. We hope that in the future, if the login process is reviewed and the UI is integrated, a more comfortable and stress-free user experience (UX) will be realized.
